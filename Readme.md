@@ -1,5 +1,7 @@
-net-core-slides
-===============
+git-basics
+==========
+
+Russian talk about Git commands and tools.
 
 How to install
 --------------
